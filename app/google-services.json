@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "114215786277",
+    "project_id": "firestoredatatorecyclerv-61838",
+    "storage_bucket": "firestoredatatorecyclerv-61838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114215786277:android:81cda0b67b2b2e52666ccc",
+        "android_client_info": {
+          "package_name": "uz.texnopos.firestoredatatorecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114215786277-n9d15let8mv8cf51fop5u68t2cpeavj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.texnopos.firestoredatatorecyclerview",
+            "certificate_hash": "ee24e2acf557835f98c3810a37d4853a21be9a03"
+          }
+        },
+        {
+          "client_id": "114215786277-ir3k0e7qefsbjpkc2t0nca240h7lflc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJxTKUkuTPPCG8dq8LkBlMf4tunDK2EDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114215786277-ir3k0e7qefsbjpkc2t0nca240h7lflc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
